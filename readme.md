@@ -4,7 +4,7 @@ Um simples conversor de moedas que permite aos usuários converter valores entre
 
 ## Funcionalidades
 
-- Conversão enre as seguintes moedas:
+- Conversão entre as seguintes moedas:
   - Real (BRL)
   - Dólar (USD)
   - Euro (EUR)
@@ -16,7 +16,7 @@ Um simples conversor de moedas que permite aos usuários converter valores entre
 ## Tecnologias Utilizadas
 
 - **HTML**: Estrutura da página.
-- **CSS**: Estilização e desig responsivo.
+- **CSS**: Estilização e design responsivo.
 - **JavaScript**: Lógica de conversão de moedas.
 
 ## Como Usar
